@@ -22,3 +22,9 @@ Numeral order list
 ---
 
 ![Cool Cat](https://lh3.googleusercontent.com/oKsgcsHtHu_nIkpNd-mNCAyzUD8xo68laRPOfvFuO0hqv6nDXVNNjEMmoiv9tIDgTj8=w170)
+
+```javascript
+var li_pa = document.getElementById("li_pa");
+var li_ao = document.getElementById("li_ao");
+var li_svc = document.getElementById("li_svc");
+```
